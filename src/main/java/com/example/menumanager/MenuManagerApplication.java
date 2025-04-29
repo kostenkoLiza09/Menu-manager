@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MenuManagerApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(MenuManagerApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(MenuManagerApplication.class, args);
+    }
 
 }
